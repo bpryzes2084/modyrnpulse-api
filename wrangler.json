@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "modyrnpulse-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "731a79ea-3d0f-4f8c-ace4-3bb6c95ea7a8",
+			"database_name": "modyrnpulse-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
